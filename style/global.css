@@ -52,7 +52,7 @@ main {
 .login__title {
     color: var(--deep-grey);
     font-size: 1.5em;
-    margin-bottom: 20PX;
+    margin-bottom: 20px;
 }
 
 .login__label {
